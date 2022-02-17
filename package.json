@@ -1,0 +1,13 @@
+{
+  "name": "solana-roulette",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/build3r/solana-roulette.git",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.34.0"
+  }
+}
